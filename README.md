@@ -30,3 +30,9 @@ At the moment I am conducting research in the field of remote sensing using mult
 ### ⚠ Disclaimer
 
 The code provided in my repository does not represent my actual programming skills. I just don't have enough time for my pet-projects because of work and science researches 😭
+
+### 📐 Some stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=soarex16&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/soarex16)
