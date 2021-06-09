@@ -8,7 +8,7 @@ Currently I work at CROC inc as a middle fullstack developer.
 
 ### ⚙ My current tech stack
 
-- C# (ASP.NET Web API, ASP.NET MVC, ASP.NET Core). But I want to write code in Golang
+- C# (ASP.NET Web API, ASP.NET MVC, ASP.NET Core). **But I want to write code in Golang**
 - JavaScript/Typescript + React (Redux, Immer, Mobx, ...), Vue
 - MongoDB 🍃, PostgreSQL 🐘
 - DevOps: Gitlab 🦊, Linux admin 💻, Docker 🐋
