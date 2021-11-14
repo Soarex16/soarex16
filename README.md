@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Shumaf. I'm a software engineer from Krasnodar, Russia.
+My name is Shumaf. I'm a software engineer from Saint Petersburg, Russia.
 
-Currently I work at CROC inc as a middle fullstack developer.
+Currently I work at CROC inc as a middle software engineer.
 
 **Frontend > Backend**
 
@@ -21,6 +21,7 @@ Currently I work at CROC inc as a middle fullstack developer.
 
 ### 🎉 My interests
 
+- Compilers. Сrazy about language design and compiler development.
 - Highload. Excited about large scale distributed systems. 
 - Complex frontend applications (web based editors, social networks).
 
