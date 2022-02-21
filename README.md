@@ -9,6 +9,7 @@ Currently I work at CROC inc as a middle software engineer.
 ### ⚙ My current tech stack
 
 - C# (ASP.NET Web API, ASP.NET MVC, ASP.NET Core). **But I want to write code in Golang**
+- Kotlin
 - JavaScript/Typescript + React (Redux, Immer, Mobx, ...), Vue
 - MongoDB 🍃, PostgreSQL 🐘
 - DevOps: Gitlab 🦊, Linux admin 💻, Docker 🐋
