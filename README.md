@@ -2,14 +2,14 @@
 
 My name is Shumaf. I'm a software engineer from Saint Petersburg, Russia.
 
-Currently I work at CROC inc as a middle software engineer.
+Currently studying at Software Engineering JetBrains master program.
 
 **Frontend > Backend**
 
 ### ⚙ My current tech stack
 
-- C# (ASP.NET Web API, ASP.NET MVC, ASP.NET Core). **But I want to write code in Golang**
-- Kotlin
+- C# (ASP.NET Web API, ASP.NET MVC, ASP.NET Core).
+- Kotlin, Java
 - JavaScript/Typescript + React (Redux, Immer, Mobx, ...), Vue
 - MongoDB 🍃, PostgreSQL 🐘
 - DevOps: Gitlab 🦊, Linux admin 💻, Docker 🐋
@@ -25,9 +25,6 @@ Currently I work at CROC inc as a middle software engineer.
 - Compilers. Сrazy about language design and compiler development.
 - Highload. Excited about large scale distributed systems. 
 - Complex frontend applications (web based editors, social networks).
-
-### 🧪 Scientific activity
-At the moment I am conducting research in the field of remote sensing using multispectral imaging
 
 ### ⚠ Disclaimer
 
