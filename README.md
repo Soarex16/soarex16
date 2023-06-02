@@ -1,37 +1,35 @@
 ### Hi there 👋
 
-My name is Shumaf. I'm a software engineer from Saint Petersburg, Russia.
+My name is Shumaf. I'm a software engineer, who loves compilers, virtual machines and programming tools.
 
-Currently studying at Software Engineering JetBrains master program.
+Currently studying & teaching at [Software Engineering](https://mse.itmo.ru/) master program.
 
-**Frontend > Backend**
+### 🌱 Pet projects
 
-### ⚙ My current tech stack
+Currently, I'm working on re-implementing an [IntelliJ IDEA stream debugger](https://www.jetbrains.com/help/idea/analyze-java-stream-operations.html) based on runtime instrumentation. If you want to learn more, check out the [repository](https://github.com/Soarex16/intellij-community/pull/6).
 
-- C# (ASP.NET Web API, ASP.NET MVC, ASP.NET Core).
-- Kotlin, Java
-- JavaScript/Typescript + React (Redux, Immer, Mobx, ...), Vue
-- MongoDB 🍃, PostgreSQL 🐘
-- DevOps: Gitlab 🦊, Linux admin 💻, Docker 🐋
+Some of my other R&D projects:
+- [auto-factory](https://github.com/Soarex16/kotlin-auto-factory) - Kotlin compiler plugin for automatic generation of factory methods with caching.
+- [Rusty Lama](https://github.com/Soarex16/rusty-lama/) - bytecode interpreter for [Lama language](https://github.com/PLTools/Lama) written in Rust. Features include handwritten parser for bytecode and support for functions and complex types (arrays, strings, S-expressions).
+- [Truffle Lama](https://github.com/Soarex16/truffle-lama) - implementation of the [Lama language](https://github.com/PLTools/Lama) using GraalVM Truffle framework.
+
+### 🛠️ Skills & languages
+
+- Java & Kotlin ❤️
+- JavaScript/Typescript
+- Rust
+- Haskell
+- Git
 
 ### 📫 How to reach me
 
-[![Gmail Badge](https://img.shields.io/badge/-soarex16@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:soarex16@gmail.com)](mailto:soarex16@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-soarex16-grey?style=flat&logo=github&logoColor=white&link=https://github.com/soarex16/)](https://github.com/soarex16/)
-[![Telegram Badge](https://img.shields.io/badge/-soarex-grey?style=social&logo=telegram&logoColor=white&link=https://t.me/soarex)](https://t.me/soarex)
+[![Linkedin Badge](https://img.shields.io/badge/-SSHumaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sshumaf/)](https://www.linkedin.com/in/sshumaf/)
+[![Github Badge](https://img.shields.io/badge/-soarex16-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/soarex16/)](https://github.com/soarex16/)
+[![Gmail Badge](https://img.shields.io/badge/-soarex16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soarex16@gmail.com)](mailto:soarex16@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-soarex-grey?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/soarex)](https://t.me/soarex)
 
-### 🎉 My interests
+### 📐 Some useful stats
 
-- Compilers. Сrazy about language design and compiler development.
-- Highload. Excited about large scale distributed systems. 
-- Complex frontend applications (web based editors, social networks).
-
-### ⚠ Disclaimer
-
-The code provided in my repository does not represent my actual programming skills. I just don't have enough time for my pet-projects because of work and science researches 😭
-
-### 📐 Some stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soarex16&hide=Jupyter%20Notebook,Vue,TypeScript,Go,C%2b%2b&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soarex16&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/soarex16)
