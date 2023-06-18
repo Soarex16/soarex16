@@ -16,7 +16,7 @@ Some of my other R&D projects:
 ### 🛠️ Skills & languages
 
 - Java & Kotlin ❤️
-- JavaScript/Typescript
+- JavaScript/Typescript (former web developer)
 - Rust
 - Haskell
 - Git
