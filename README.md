@@ -2,7 +2,7 @@
 
 My name is Shumaf. I'm a software engineer, who loves compilers, virtual machines and programming tools.
 
-Currently studying & teaching at [Software Engineering](https://mse.itmo.ru/) master program.
+Сurrently I work at [JetBrains](https://www.jetbrains.com/) and teach at [Software Engineering](https://mse.itmo.ru/) master program.
 
 ### 🌱 Pet projects
 
