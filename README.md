@@ -24,9 +24,7 @@ Some of my other R&D projects:
 ### 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-SSHumaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sshumaf/)](https://www.linkedin.com/in/sshumaf/)
-[![Github Badge](https://img.shields.io/badge/-soarex16-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/soarex16/)](https://github.com/soarex16/)
 [![Gmail Badge](https://img.shields.io/badge/-soarex16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soarex16@gmail.com)](mailto:soarex16@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-soarex-grey?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/soarex)](https://t.me/soarex)
 
 ### 📐 Some useful stats
 
